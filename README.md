@@ -1,2 +1,2 @@
-# SyntaxCheckerd
+# SyntaxChecker
 A former project stored
